@@ -389,7 +389,7 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		DD216CC82ECCFA8200B427E5 /* XCRemoteSwiftPackageReference "AppsFlyerFramework" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/AppsFlyerSDK/AppsFlyerFramework?ysclid=mi4xra1grt244307450";
+			repositoryURL = "https://github.com/AppsFlyerSDK/AppsFlyerFramework";
 			requirement = {
 				kind = upToNextMajorVersion;
 				minimumVersion = 6.17.7;
