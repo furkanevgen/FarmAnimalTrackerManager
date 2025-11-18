@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "Theo dõi";
+"tab_add" = "Thêm";
+"tab_edit" = "Chỉnh sửa";
+"tab_statistics" = "Thống kê";
+"tab_settings" = "Cài đặt";
+
+/* Tracker Screen */
+"tracker_title" = "Theo dõi Động vật";
+"tracker_empty" = "Chưa có động vật";
+"tracker_empty_description" = "Thêm động vật đầu tiên của bạn để bắt đầu theo dõi";
+
+/* Add Animal Screen */
+"add_animal_title" = "Thêm Động vật";
+"add_animal_name" = "Tên";
+"add_animal_type" = "Loại";
+"add_animal_breed" = "Giống";
+"add_animal_birth_date" = "Ngày Sinh";
+"add_animal_weight" = "Cân nặng (kg)";
+"add_animal_health_status" = "Tình trạng Sức khỏe";
+"add_animal_notes" = "Ghi chú";
+"add_animal_save" = "Lưu";
+"add_animal_cancel" = "Hủy";
+"add_animal_success" = "Động vật đã được thêm thành công";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "Chỉnh sửa Động vật";
+"edit_animal_save" = "Lưu Thay đổi";
+"edit_animal_delete" = "Xóa";
+"edit_animal_success" = "Động vật đã được cập nhật thành công";
+"edit_animal_delete_confirm" = "Bạn có chắc chắn muốn xóa động vật này không?";
+"edit_animal_delete_confirm_title" = "Xóa Động vật";
+
+/* Statistics Screen */
+"statistics_title" = "Thống kê";
+"statistics_total" = "Tổng số Động vật";
+"statistics_by_type" = "Theo Loại";
+"statistics_health" = "Tình trạng Sức khỏe";
+"statistics_average_weight" = "Cân nặng Trung bình";
+
+/* Settings Screen */
+"settings_title" = "Cài đặt";
+"settings_theme" = "Giao diện";
+"settings_language" = "Ngôn ngữ";
+"settings_theme_system" = "Hệ thống";
+"settings_theme_light" = "Sáng";
+"settings_theme_dark" = "Tối";
+"theme_system" = "Hệ thống";
+"theme_light" = "Sáng";
+"theme_dark" = "Tối";
+
+/* Language Selection */
+"language_selection_title" = "Chọn Ngôn ngữ";
+"language_selection_subtitle" = "Chọn ngôn ngữ ưa thích của bạn";
+"language_selection_continue" = "Tiếp tục";
+
+/* Common */
+"common_ok" = "OK";
+"common_cancel" = "Hủy";
+"common_delete" = "Xóa";
+"common_save" = "Lưu";
+"common_edit" = "Chỉnh sửa";
+"common_loading" = "Đang tải...";
+"common_error" = "Lỗi";
+"common_success" = "Thành công";
+
+/* Animal Types */
+"animal_type_cow" = "Bò";
+"animal_type_pig" = "Lợn";
+"animal_type_chicken" = "Gà";
+"animal_type_sheep" = "Cừu";
+"animal_type_goat" = "Dê";
+"animal_type_horse" = "Ngựa";
+"animal_type_other" = "Khác";
+
+/* Health Status */
+"health_excellent" = "Xuất sắc";
+"health_good" = "Tốt";
+"health_fair" = "Khá";
+"health_poor" = "Kém";
+"health_treatment" = "Đang Điều trị";
+

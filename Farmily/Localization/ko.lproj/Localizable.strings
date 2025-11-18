@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "추적";
+"tab_add" = "추가";
+"tab_edit" = "편집";
+"tab_statistics" = "통계";
+"tab_settings" = "설정";
+
+/* Tracker Screen */
+"tracker_title" = "동물 추적";
+"tracker_empty" = "아직 동물이 없습니다";
+"tracker_empty_description" = "첫 번째 동물을 추가하여 추적을 시작하세요";
+
+/* Add Animal Screen */
+"add_animal_title" = "동물 추가";
+"add_animal_name" = "이름";
+"add_animal_type" = "종류";
+"add_animal_breed" = "품종";
+"add_animal_birth_date" = "생년월일";
+"add_animal_weight" = "체중 (kg)";
+"add_animal_health_status" = "건강 상태";
+"add_animal_notes" = "메모";
+"add_animal_save" = "저장";
+"add_animal_cancel" = "취소";
+"add_animal_success" = "동물이 성공적으로 추가되었습니다";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "동물 편집";
+"edit_animal_save" = "변경 사항 저장";
+"edit_animal_delete" = "삭제";
+"edit_animal_success" = "동물이 성공적으로 업데이트되었습니다";
+"edit_animal_delete_confirm" = "이 동물을 삭제하시겠습니까?";
+"edit_animal_delete_confirm_title" = "동물 삭제";
+
+/* Statistics Screen */
+"statistics_title" = "통계";
+"statistics_total" = "총 동물 수";
+"statistics_by_type" = "종류별";
+"statistics_health" = "건강 상태";
+"statistics_average_weight" = "평균 체중";
+
+/* Settings Screen */
+"settings_title" = "설정";
+"settings_theme" = "테마";
+"settings_language" = "언어";
+"settings_theme_system" = "시스템";
+"settings_theme_light" = "밝게";
+"settings_theme_dark" = "어둡게";
+"theme_system" = "시스템";
+"theme_light" = "밝게";
+"theme_dark" = "어둡게";
+
+/* Language Selection */
+"language_selection_title" = "언어 선택";
+"language_selection_subtitle" = "원하는 언어를 선택하세요";
+"language_selection_continue" = "계속";
+
+/* Common */
+"common_ok" = "확인";
+"common_cancel" = "취소";
+"common_delete" = "삭제";
+"common_save" = "저장";
+"common_edit" = "편집";
+"common_loading" = "로딩 중...";
+"common_error" = "오류";
+"common_success" = "성공";
+
+/* Animal Types */
+"animal_type_cow" = "소";
+"animal_type_pig" = "돼지";
+"animal_type_chicken" = "닭";
+"animal_type_sheep" = "양";
+"animal_type_goat" = "염소";
+"animal_type_horse" = "말";
+"animal_type_other" = "기타";
+
+/* Health Status */
+"health_excellent" = "우수";
+"health_good" = "양호";
+"health_fair" = "보통";
+"health_poor" = "불량";
+"health_treatment" = "치료 중";
+

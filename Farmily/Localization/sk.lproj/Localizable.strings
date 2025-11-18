@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "Sledovanie";
+"tab_add" = "Pridať";
+"tab_edit" = "Upraviť";
+"tab_statistics" = "Štatistiky";
+"tab_settings" = "Nastavenia";
+
+/* Tracker Screen */
+"tracker_title" = "Sledovanie Zvierat";
+"tracker_empty" = "Zatiaľ žiadne zvieratá";
+"tracker_empty_description" = "Pridajte svoje prvé zvieratá na začatie sledovania";
+
+/* Add Animal Screen */
+"add_animal_title" = "Pridať Zvieratá";
+"add_animal_name" = "Meno";
+"add_animal_type" = "Typ";
+"add_animal_breed" = "Plemeno";
+"add_animal_birth_date" = "Dátum Narodenia";
+"add_animal_weight" = "Hmotnosť (kg)";
+"add_animal_health_status" = "Zdravotný Stav";
+"add_animal_notes" = "Poznámky";
+"add_animal_save" = "Uložiť";
+"add_animal_cancel" = "Zrušiť";
+"add_animal_success" = "Zvieratá bolo úspešne pridané";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "Upraviť Zvieratá";
+"edit_animal_save" = "Uložiť Zmeny";
+"edit_animal_delete" = "Vymazať";
+"edit_animal_success" = "Zvieratá bolo úspešne aktualizované";
+"edit_animal_delete_confirm" = "Ste si istí, že chcete vymazať toto zvieratá?";
+"edit_animal_delete_confirm_title" = "Vymazať Zvieratá";
+
+/* Statistics Screen */
+"statistics_title" = "Štatistiky";
+"statistics_total" = "Celkový Počet Zvierat";
+"statistics_by_type" = "Podľa Typu";
+"statistics_health" = "Zdravotný Stav";
+"statistics_average_weight" = "Priemerná Hmotnosť";
+
+/* Settings Screen */
+"settings_title" = "Nastavenia";
+"settings_theme" = "Téma";
+"settings_language" = "Jazyk";
+"settings_theme_system" = "Systém";
+"settings_theme_light" = "Svetlý";
+"settings_theme_dark" = "Tmavý";
+"theme_system" = "Systém";
+"theme_light" = "Svetlý";
+"theme_dark" = "Tmavý";
+
+/* Language Selection */
+"language_selection_title" = "Vybrať Jazyk";
+"language_selection_subtitle" = "Vyberte svoj preferovaný jazyk";
+"language_selection_continue" = "Pokračovať";
+
+/* Common */
+"common_ok" = "OK";
+"common_cancel" = "Zrušiť";
+"common_delete" = "Vymazať";
+"common_save" = "Uložiť";
+"common_edit" = "Upraviť";
+"common_loading" = "Načítava sa...";
+"common_error" = "Chyba";
+"common_success" = "Úspech";
+
+/* Animal Types */
+"animal_type_cow" = "Krava";
+"animal_type_pig" = "Prasa";
+"animal_type_chicken" = "Kura";
+"animal_type_sheep" = "Ovca";
+"animal_type_goat" = "Koza";
+"animal_type_horse" = "Kôň";
+"animal_type_other" = "Iné";
+
+/* Health Status */
+"health_excellent" = "Výborné";
+"health_good" = "Dobré";
+"health_fair" = "Priemerné";
+"health_poor" = "Slabé";
+"health_treatment" = "V Liečbe";
+

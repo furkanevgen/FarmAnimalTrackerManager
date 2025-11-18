@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "فارميلي";
+
+/* Tab Bar */
+"tab_tracker" = "المتعقب";
+"tab_add" = "إضافة";
+"tab_edit" = "تعديل";
+"tab_statistics" = "الإحصائيات";
+"tab_settings" = "الإعدادات";
+
+/* Tracker Screen */
+"tracker_title" = "متعقب الحيوانات";
+"tracker_empty" = "لا توجد حيوانات بعد";
+"tracker_empty_description" = "أضف حيوانك الأول لبدء التتبع";
+
+/* Add Animal Screen */
+"add_animal_title" = "إضافة حيوان";
+"add_animal_name" = "الاسم";
+"add_animal_type" = "النوع";
+"add_animal_breed" = "السلالة";
+"add_animal_birth_date" = "تاريخ الميلاد";
+"add_animal_weight" = "الوزن (كجم)";
+"add_animal_health_status" = "حالة الصحة";
+"add_animal_notes" = "ملاحظات";
+"add_animal_save" = "حفظ";
+"add_animal_cancel" = "إلغاء";
+"add_animal_success" = "تمت إضافة الحيوان بنجاح";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "تعديل الحيوان";
+"edit_animal_save" = "حفظ التغييرات";
+"edit_animal_delete" = "حذف";
+"edit_animal_success" = "تم تحديث الحيوان بنجاح";
+"edit_animal_delete_confirm" = "هل أنت متأكد من حذف هذا الحيوان؟";
+"edit_animal_delete_confirm_title" = "حذف الحيوان";
+
+/* Statistics Screen */
+"statistics_title" = "الإحصائيات";
+"statistics_total" = "إجمالي الحيوانات";
+"statistics_by_type" = "حسب النوع";
+"statistics_health" = "حالة الصحة";
+"statistics_average_weight" = "متوسط الوزن";
+
+/* Settings Screen */
+"settings_title" = "الإعدادات";
+"settings_theme" = "المظهر";
+"settings_language" = "اللغة";
+"settings_theme_system" = "النظام";
+"settings_theme_light" = "فاتح";
+"settings_theme_dark" = "داكن";
+"theme_system" = "النظام";
+"theme_light" = "فاتح";
+"theme_dark" = "داكن";
+
+/* Language Selection */
+"language_selection_title" = "اختر اللغة";
+"language_selection_subtitle" = "اختر لغتك المفضلة";
+"language_selection_continue" = "متابعة";
+
+/* Common */
+"common_ok" = "موافق";
+"common_cancel" = "إلغاء";
+"common_delete" = "حذف";
+"common_save" = "حفظ";
+"common_edit" = "تعديل";
+"common_loading" = "جاري التحميل...";
+"common_error" = "خطأ";
+"common_success" = "نجح";
+
+/* Animal Types */
+"animal_type_cow" = "بقرة";
+"animal_type_pig" = "خنزير";
+"animal_type_chicken" = "دجاجة";
+"animal_type_sheep" = "خروف";
+"animal_type_goat" = "ماعز";
+"animal_type_horse" = "حصان";
+"animal_type_other" = "أخرى";
+
+/* Health Status */
+"health_excellent" = "ممتاز";
+"health_good" = "جيد";
+"health_fair" = "مقبول";
+"health_poor" = "ضعيف";
+"health_treatment" = "قيد العلاج";
+

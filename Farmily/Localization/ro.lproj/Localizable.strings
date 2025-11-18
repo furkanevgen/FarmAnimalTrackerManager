@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "Urmărire";
+"tab_add" = "Adăugare";
+"tab_edit" = "Editare";
+"tab_statistics" = "Statistici";
+"tab_settings" = "Setări";
+
+/* Tracker Screen */
+"tracker_title" = "Urmărire Animale";
+"tracker_empty" = "Nicio animală încă";
+"tracker_empty_description" = "Adăugați primul animal pentru a începe urmărirea";
+
+/* Add Animal Screen */
+"add_animal_title" = "Adăugare Animal";
+"add_animal_name" = "Nume";
+"add_animal_type" = "Tip";
+"add_animal_breed" = "Rasă";
+"add_animal_birth_date" = "Data Nașterii";
+"add_animal_weight" = "Greutate (kg)";
+"add_animal_health_status" = "Starea Sănătății";
+"add_animal_notes" = "Note";
+"add_animal_save" = "Salvare";
+"add_animal_cancel" = "Anulare";
+"add_animal_success" = "Animal adăugat cu succes";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "Editare Animal";
+"edit_animal_save" = "Salvare Modificări";
+"edit_animal_delete" = "Ștergere";
+"edit_animal_success" = "Animal actualizat cu succes";
+"edit_animal_delete_confirm" = "Sunteți sigur că doriți să ștergeți acest animal?";
+"edit_animal_delete_confirm_title" = "Ștergere Animal";
+
+/* Statistics Screen */
+"statistics_title" = "Statistici";
+"statistics_total" = "Total Animale";
+"statistics_by_type" = "După Tip";
+"statistics_health" = "Starea Sănătății";
+"statistics_average_weight" = "Greutate Medie";
+
+/* Settings Screen */
+"settings_title" = "Setări";
+"settings_theme" = "Temă";
+"settings_language" = "Limbă";
+"settings_theme_system" = "Sistem";
+"settings_theme_light" = "Luminos";
+"settings_theme_dark" = "Întunecat";
+"theme_system" = "Sistem";
+"theme_light" = "Luminos";
+"theme_dark" = "Întunecat";
+
+/* Language Selection */
+"language_selection_title" = "Selectare Limbă";
+"language_selection_subtitle" = "Alegeți limba preferată";
+"language_selection_continue" = "Continuare";
+
+/* Common */
+"common_ok" = "OK";
+"common_cancel" = "Anulare";
+"common_delete" = "Ștergere";
+"common_save" = "Salvare";
+"common_edit" = "Editare";
+"common_loading" = "Se încarcă...";
+"common_error" = "Eroare";
+"common_success" = "Succes";
+
+/* Animal Types */
+"animal_type_cow" = "Vacă";
+"animal_type_pig" = "Porc";
+"animal_type_chicken" = "Găină";
+"animal_type_sheep" = "Oaie";
+"animal_type_goat" = "Capră";
+"animal_type_horse" = "Cal";
+"animal_type_other" = "Altele";
+
+/* Health Status */
+"health_excellent" = "Excelent";
+"health_good" = "Bun";
+"health_fair" = "Acceptabil";
+"health_poor" = "Slab";
+"health_treatment" = "În Tratament";
+

@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "Seuranta";
+"tab_add" = "Lisää";
+"tab_edit" = "Muokkaa";
+"tab_statistics" = "Tilastot";
+"tab_settings" = "Asetukset";
+
+/* Tracker Screen */
+"tracker_title" = "Eläinten Seuranta";
+"tracker_empty" = "Ei eläimiä vielä";
+"tracker_empty_description" = "Lisää ensimmäinen eläimesi aloittaaksesi seurannan";
+
+/* Add Animal Screen */
+"add_animal_title" = "Lisää Eläin";
+"add_animal_name" = "Nimi";
+"add_animal_type" = "Tyyppi";
+"add_animal_breed" = "Rotu";
+"add_animal_birth_date" = "Syntymäpäivä";
+"add_animal_weight" = "Paino (kg)";
+"add_animal_health_status" = "Terveydentila";
+"add_animal_notes" = "Muistiinpanot";
+"add_animal_save" = "Tallenna";
+"add_animal_cancel" = "Peruuta";
+"add_animal_success" = "Eläin lisätty onnistuneesti";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "Muokkaa Eläintä";
+"edit_animal_save" = "Tallenna Muutokset";
+"edit_animal_delete" = "Poista";
+"edit_animal_success" = "Eläin päivitetty onnistuneesti";
+"edit_animal_delete_confirm" = "Haluatko varmasti poistaa tämän eläimen?";
+"edit_animal_delete_confirm_title" = "Poista Eläin";
+
+/* Statistics Screen */
+"statistics_title" = "Tilastot";
+"statistics_total" = "Eläinten Määrä";
+"statistics_by_type" = "Tyypin Mukaan";
+"statistics_health" = "Terveydentila";
+"statistics_average_weight" = "Keskipaino";
+
+/* Settings Screen */
+"settings_title" = "Asetukset";
+"settings_theme" = "Teema";
+"settings_language" = "Kieli";
+"settings_theme_system" = "Järjestelmä";
+"settings_theme_light" = "Vaalea";
+"settings_theme_dark" = "Tumma";
+"theme_system" = "Järjestelmä";
+"theme_light" = "Vaalea";
+"theme_dark" = "Tumma";
+
+/* Language Selection */
+"language_selection_title" = "Valitse Kieli";
+"language_selection_subtitle" = "Valitse haluamasi kieli";
+"language_selection_continue" = "Jatka";
+
+/* Common */
+"common_ok" = "OK";
+"common_cancel" = "Peruuta";
+"common_delete" = "Poista";
+"common_save" = "Tallenna";
+"common_edit" = "Muokkaa";
+"common_loading" = "Ladataan...";
+"common_error" = "Virhe";
+"common_success" = "Onnistui";
+
+/* Animal Types */
+"animal_type_cow" = "Lehmä";
+"animal_type_pig" = "Sika";
+"animal_type_chicken" = "Kana";
+"animal_type_sheep" = "Lammas";
+"animal_type_goat" = "Vuohi";
+"animal_type_horse" = "Hevonen";
+"animal_type_other" = "Muu";
+
+/* Health Status */
+"health_excellent" = "Erinomainen";
+"health_good" = "Hyvä";
+"health_fair" = "Tyydyttävä";
+"health_poor" = "Heikko";
+"health_treatment" = "Hoidossa";
+

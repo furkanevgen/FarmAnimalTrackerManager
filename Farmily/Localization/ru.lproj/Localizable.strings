@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Фармили";
+
+/* Tab Bar */
+"tab_tracker" = "Трекер";
+"tab_add" = "Добавить";
+"tab_edit" = "Редактировать";
+"tab_statistics" = "Статистика";
+"tab_settings" = "Настройки";
+
+/* Tracker Screen */
+"tracker_title" = "Отслеживание животных";
+"tracker_empty" = "Животных пока нет";
+"tracker_empty_description" = "Добавьте первое животное для начала отслеживания";
+
+/* Add Animal Screen */
+"add_animal_title" = "Добавить животное";
+"add_animal_name" = "Имя";
+"add_animal_type" = "Тип";
+"add_animal_breed" = "Порода";
+"add_animal_birth_date" = "Дата рождения";
+"add_animal_weight" = "Вес (кг)";
+"add_animal_health_status" = "Состояние здоровья";
+"add_animal_notes" = "Заметки";
+"add_animal_save" = "Сохранить";
+"add_animal_cancel" = "Отмена";
+"add_animal_success" = "Животное успешно добавлено";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "Редактировать животное";
+"edit_animal_save" = "Сохранить изменения";
+"edit_animal_delete" = "Удалить";
+"edit_animal_success" = "Животное успешно обновлено";
+"edit_animal_delete_confirm" = "Вы уверены, что хотите удалить это животное?";
+"edit_animal_delete_confirm_title" = "Удалить животное";
+
+/* Statistics Screen */
+"statistics_title" = "Статистика";
+"statistics_total" = "Всего животных";
+"statistics_by_type" = "По типам";
+"statistics_health" = "Состояние здоровья";
+"statistics_average_weight" = "Средний вес";
+
+/* Settings Screen */
+"settings_title" = "Настройки";
+"settings_theme" = "Тема";
+"settings_language" = "Язык";
+"settings_theme_system" = "Системная";
+"settings_theme_light" = "Светлая";
+"settings_theme_dark" = "Темная";
+"theme_system" = "Системная";
+"theme_light" = "Светлая";
+"theme_dark" = "Темная";
+
+/* Language Selection */
+"language_selection_title" = "Выберите язык";
+"language_selection_subtitle" = "Выберите предпочитаемый язык";
+"language_selection_continue" = "Продолжить";
+
+/* Common */
+"common_ok" = "ОК";
+"common_cancel" = "Отмена";
+"common_delete" = "Удалить";
+"common_save" = "Сохранить";
+"common_edit" = "Редактировать";
+"common_loading" = "Загрузка...";
+"common_error" = "Ошибка";
+"common_success" = "Успешно";
+
+/* Animal Types */
+"animal_type_cow" = "Корова";
+"animal_type_pig" = "Свинья";
+"animal_type_chicken" = "Курица";
+"animal_type_sheep" = "Овца";
+"animal_type_goat" = "Коза";
+"animal_type_horse" = "Лошадь";
+"animal_type_other" = "Другое";
+
+/* Health Status */
+"health_excellent" = "Отличное";
+"health_good" = "Хорошее";
+"health_fair" = "Удовлетворительное";
+"health_poor" = "Плохое";
+"health_treatment" = "На лечении";
+

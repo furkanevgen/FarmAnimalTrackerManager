@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "Követés";
+"tab_add" = "Hozzáadás";
+"tab_edit" = "Szerkesztés";
+"tab_statistics" = "Statisztika";
+"tab_settings" = "Beállítások";
+
+/* Tracker Screen */
+"tracker_title" = "Állatok követése";
+"tracker_empty" = "Még nincsenek állatok";
+"tracker_empty_description" = "Adja hozzá az első állatot a követés megkezdéséhez";
+
+/* Add Animal Screen */
+"add_animal_title" = "Állat hozzáadása";
+"add_animal_name" = "Név";
+"add_animal_type" = "Típus";
+"add_animal_breed" = "Fajta";
+"add_animal_birth_date" = "Születési dátum";
+"add_animal_weight" = "Súly (kg)";
+"add_animal_health_status" = "Egészségi állapot";
+"add_animal_notes" = "Megjegyzések";
+"add_animal_save" = "Mentés";
+"add_animal_cancel" = "Mégse";
+"add_animal_success" = "Állat sikeresen hozzáadva";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "Állat szerkesztése";
+"edit_animal_save" = "Változások mentése";
+"edit_animal_delete" = "Törlés";
+"edit_animal_success" = "Állat sikeresen frissítve";
+"edit_animal_delete_confirm" = "Biztosan törölni szeretné ezt az állatot?";
+"edit_animal_delete_confirm_title" = "Állat törlése";
+
+/* Statistics Screen */
+"statistics_title" = "Statisztika";
+"statistics_total" = "Összes állat";
+"statistics_by_type" = "Típus szerint";
+"statistics_health" = "Egészségi állapot";
+"statistics_average_weight" = "Átlagos súly";
+
+/* Settings Screen */
+"settings_title" = "Beállítások";
+"settings_theme" = "Téma";
+"settings_language" = "Nyelv";
+"settings_theme_system" = "Rendszer";
+"settings_theme_light" = "Világos";
+"settings_theme_dark" = "Sötét";
+"theme_system" = "Rendszer";
+"theme_light" = "Világos";
+"theme_dark" = "Sötét";
+
+/* Language Selection */
+"language_selection_title" = "Nyelv kiválasztása";
+"language_selection_subtitle" = "Válassza ki az előnyben részesített nyelvet";
+"language_selection_continue" = "Folytatás";
+
+/* Common */
+"common_ok" = "OK";
+"common_cancel" = "Mégse";
+"common_delete" = "Törlés";
+"common_save" = "Mentés";
+"common_edit" = "Szerkesztés";
+"common_loading" = "Betöltés...";
+"common_error" = "Hiba";
+"common_success" = "Siker";
+
+/* Animal Types */
+"animal_type_cow" = "Tehén";
+"animal_type_pig" = "Sertés";
+"animal_type_chicken" = "Csirke";
+"animal_type_sheep" = "Juh";
+"animal_type_goat" = "Kecske";
+"animal_type_horse" = "Ló";
+"animal_type_other" = "Egyéb";
+
+/* Health Status */
+"health_excellent" = "Kiváló";
+"health_good" = "Jó";
+"health_fair" = "Közepes";
+"health_poor" = "Rossz";
+"health_treatment" = "Kezelés alatt";
+

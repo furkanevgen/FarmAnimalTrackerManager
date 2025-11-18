@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "Penjejak";
+"tab_add" = "Tambah";
+"tab_edit" = "Edit";
+"tab_statistics" = "Statistik";
+"tab_settings" = "Tetapan";
+
+/* Tracker Screen */
+"tracker_title" = "Penjejak Haiwan";
+"tracker_empty" = "Tiada haiwan lagi";
+"tracker_empty_description" = "Tambah haiwan pertama anda untuk mula menjejaki";
+
+/* Add Animal Screen */
+"add_animal_title" = "Tambah Haiwan";
+"add_animal_name" = "Nama";
+"add_animal_type" = "Jenis";
+"add_animal_breed" = "Baka";
+"add_animal_birth_date" = "Tarikh Lahir";
+"add_animal_weight" = "Berat (kg)";
+"add_animal_health_status" = "Status Kesihatan";
+"add_animal_notes" = "Nota";
+"add_animal_save" = "Simpan";
+"add_animal_cancel" = "Batal";
+"add_animal_success" = "Haiwan berjaya ditambah";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "Edit Haiwan";
+"edit_animal_save" = "Simpan Perubahan";
+"edit_animal_delete" = "Padam";
+"edit_animal_success" = "Haiwan berjaya dikemas kini";
+"edit_animal_delete_confirm" = "Adakah anda pasti mahu memadam haiwan ini?";
+"edit_animal_delete_confirm_title" = "Padam Haiwan";
+
+/* Statistics Screen */
+"statistics_title" = "Statistik";
+"statistics_total" = "Jumlah Haiwan";
+"statistics_by_type" = "Mengikut Jenis";
+"statistics_health" = "Status Kesihatan";
+"statistics_average_weight" = "Purata Berat";
+
+/* Settings Screen */
+"settings_title" = "Tetapan";
+"settings_theme" = "Tema";
+"settings_language" = "Bahasa";
+"settings_theme_system" = "Sistem";
+"settings_theme_light" = "Terang";
+"settings_theme_dark" = "Gelap";
+"theme_system" = "Sistem";
+"theme_light" = "Terang";
+"theme_dark" = "Gelap";
+
+/* Language Selection */
+"language_selection_title" = "Pilih Bahasa";
+"language_selection_subtitle" = "Pilih bahasa pilihan anda";
+"language_selection_continue" = "Teruskan";
+
+/* Common */
+"common_ok" = "OK";
+"common_cancel" = "Batal";
+"common_delete" = "Padam";
+"common_save" = "Simpan";
+"common_edit" = "Edit";
+"common_loading" = "Memuatkan...";
+"common_error" = "Ralat";
+"common_success" = "Berjaya";
+
+/* Animal Types */
+"animal_type_cow" = "Lembu";
+"animal_type_pig" = "Babi";
+"animal_type_chicken" = "Ayam";
+"animal_type_sheep" = "Biri-biri";
+"animal_type_goat" = "Kambing";
+"animal_type_horse" = "Kuda";
+"animal_type_other" = "Lain-lain";
+
+/* Health Status */
+"health_excellent" = "Cemerlang";
+"health_good" = "Baik";
+"health_fair" = "Sederhana";
+"health_poor" = "Lemah";
+"health_treatment" = "Sedang Dirawat";
+

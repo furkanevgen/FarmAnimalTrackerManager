@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "Praćenje";
+"tab_add" = "Dodaj";
+"tab_edit" = "Uredi";
+"tab_statistics" = "Statistika";
+"tab_settings" = "Postavke";
+
+/* Tracker Screen */
+"tracker_title" = "Praćenje životinja";
+"tracker_empty" = "Još nema životinja";
+"tracker_empty_description" = "Dodajte svoju prvu životinju za početak praćenja";
+
+/* Add Animal Screen */
+"add_animal_title" = "Dodaj životinju";
+"add_animal_name" = "Ime";
+"add_animal_type" = "Vrsta";
+"add_animal_breed" = "Pasmina";
+"add_animal_birth_date" = "Datum rođenja";
+"add_animal_weight" = "Težina (kg)";
+"add_animal_health_status" = "Zdravstveno stanje";
+"add_animal_notes" = "Napomene";
+"add_animal_save" = "Spremi";
+"add_animal_cancel" = "Odustani";
+"add_animal_success" = "Životinja uspješno dodana";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "Uredi životinju";
+"edit_animal_save" = "Spremi promjene";
+"edit_animal_delete" = "Obriši";
+"edit_animal_success" = "Životinja uspješno ažurirana";
+"edit_animal_delete_confirm" = "Jeste li sigurni da želite obrisati ovu životinju?";
+"edit_animal_delete_confirm_title" = "Obriši životinju";
+
+/* Statistics Screen */
+"statistics_title" = "Statistika";
+"statistics_total" = "Ukupno životinja";
+"statistics_by_type" = "Po vrsti";
+"statistics_health" = "Zdravstveno stanje";
+"statistics_average_weight" = "Prosječna težina";
+
+/* Settings Screen */
+"settings_title" = "Postavke";
+"settings_theme" = "Tema";
+"settings_language" = "Jezik";
+"settings_theme_system" = "Sustav";
+"settings_theme_light" = "Svijetla";
+"settings_theme_dark" = "Tamna";
+"theme_system" = "Sustav";
+"theme_light" = "Svijetla";
+"theme_dark" = "Tamna";
+
+/* Language Selection */
+"language_selection_title" = "Odaberi jezik";
+"language_selection_subtitle" = "Odaberite željeni jezik";
+"language_selection_continue" = "Nastavi";
+
+/* Common */
+"common_ok" = "U redu";
+"common_cancel" = "Odustani";
+"common_delete" = "Obriši";
+"common_save" = "Spremi";
+"common_edit" = "Uredi";
+"common_loading" = "Učitavanje...";
+"common_error" = "Greška";
+"common_success" = "Uspjeh";
+
+/* Animal Types */
+"animal_type_cow" = "Krava";
+"animal_type_pig" = "Svinja";
+"animal_type_chicken" = "Kokoš";
+"animal_type_sheep" = "Ovca";
+"animal_type_goat" = "Koza";
+"animal_type_horse" = "Konj";
+"animal_type_other" = "Ostalo";
+
+/* Health Status */
+"health_excellent" = "Izvrsno";
+"health_good" = "Dobro";
+"health_fair" = "Zadovoljavajuće";
+"health_poor" = "Slabo";
+"health_treatment" = "Na liječenju";
+

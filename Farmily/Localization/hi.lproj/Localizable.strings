@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "ट्रैकर";
+"tab_add" = "जोड़ें";
+"tab_edit" = "संपादित करें";
+"tab_statistics" = "आंकड़े";
+"tab_settings" = "सेटिंग्स";
+
+/* Tracker Screen */
+"tracker_title" = "पशु ट्रैकर";
+"tracker_empty" = "अभी तक कोई पशु नहीं";
+"tracker_empty_description" = "ट्रैकिंग शुरू करने के लिए अपना पहला पशु जोड़ें";
+
+/* Add Animal Screen */
+"add_animal_title" = "पशु जोड़ें";
+"add_animal_name" = "नाम";
+"add_animal_type" = "प्रकार";
+"add_animal_breed" = "नस्ल";
+"add_animal_birth_date" = "जन्म तिथि";
+"add_animal_weight" = "वजन (किग्रा)";
+"add_animal_health_status" = "स्वास्थ्य स्थिति";
+"add_animal_notes" = "नोट्स";
+"add_animal_save" = "सहेजें";
+"add_animal_cancel" = "रद्द करें";
+"add_animal_success" = "पशु सफलतापूर्वक जोड़ा गया";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "पशु संपादित करें";
+"edit_animal_save" = "परिवर्तन सहेजें";
+"edit_animal_delete" = "हटाएं";
+"edit_animal_success" = "पशु सफलतापूर्वक अपडेट किया गया";
+"edit_animal_delete_confirm" = "क्या आप वाकई इस पशु को हटाना चाहते हैं?";
+"edit_animal_delete_confirm_title" = "पशु हटाएं";
+
+/* Statistics Screen */
+"statistics_title" = "आंकड़े";
+"statistics_total" = "कुल पशु";
+"statistics_by_type" = "प्रकार के अनुसार";
+"statistics_health" = "स्वास्थ्य स्थिति";
+"statistics_average_weight" = "औसत वजन";
+
+/* Settings Screen */
+"settings_title" = "सेटिंग्स";
+"settings_theme" = "थीम";
+"settings_language" = "भाषा";
+"settings_theme_system" = "सिस्टम";
+"settings_theme_light" = "हल्का";
+"settings_theme_dark" = "गहरा";
+"theme_system" = "सिस्टम";
+"theme_light" = "हल्का";
+"theme_dark" = "गहरा";
+
+/* Language Selection */
+"language_selection_title" = "भाषा चुनें";
+"language_selection_subtitle" = "अपनी पसंदीदा भाषा चुनें";
+"language_selection_continue" = "जारी रखें";
+
+/* Common */
+"common_ok" = "ठीक";
+"common_cancel" = "रद्द करें";
+"common_delete" = "हटाएं";
+"common_save" = "सहेजें";
+"common_edit" = "संपादित करें";
+"common_loading" = "लोड हो रहा है...";
+"common_error" = "त्रुटि";
+"common_success" = "सफलता";
+
+/* Animal Types */
+"animal_type_cow" = "गाय";
+"animal_type_pig" = "सुअर";
+"animal_type_chicken" = "मुर्गी";
+"animal_type_sheep" = "भेड़";
+"animal_type_goat" = "बकरी";
+"animal_type_horse" = "घोड़ा";
+"animal_type_other" = "अन्य";
+
+/* Health Status */
+"health_excellent" = "उत्कृष्ट";
+"health_good" = "अच्छा";
+"health_fair" = "ठीक";
+"health_poor" = "खराब";
+"health_treatment" = "उपचाराधीन";
+

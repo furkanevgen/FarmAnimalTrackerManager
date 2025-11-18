@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "Seguimiento";
+"tab_add" = "Agregar";
+"tab_edit" = "Editar";
+"tab_statistics" = "Estadísticas";
+"tab_settings" = "Configuración";
+
+/* Tracker Screen */
+"tracker_title" = "Seguimiento de Animales";
+"tracker_empty" = "Aún no hay animales";
+"tracker_empty_description" = "Agrega tu primer animal para comenzar el seguimiento";
+
+/* Add Animal Screen */
+"add_animal_title" = "Agregar Animal";
+"add_animal_name" = "Nombre";
+"add_animal_type" = "Tipo";
+"add_animal_breed" = "Raza";
+"add_animal_birth_date" = "Fecha de Nacimiento";
+"add_animal_weight" = "Peso (kg)";
+"add_animal_health_status" = "Estado de Salud";
+"add_animal_notes" = "Notas";
+"add_animal_save" = "Guardar";
+"add_animal_cancel" = "Cancelar";
+"add_animal_success" = "Animal agregado con éxito";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "Editar Animal";
+"edit_animal_save" = "Guardar Cambios";
+"edit_animal_delete" = "Eliminar";
+"edit_animal_success" = "Animal actualizado con éxito";
+"edit_animal_delete_confirm" = "¿Estás seguro de que quieres eliminar este animal?";
+"edit_animal_delete_confirm_title" = "Eliminar Animal";
+
+/* Statistics Screen */
+"statistics_title" = "Estadísticas";
+"statistics_total" = "Total de Animales";
+"statistics_by_type" = "Por Tipo";
+"statistics_health" = "Estado de Salud";
+"statistics_average_weight" = "Peso Promedio";
+
+/* Settings Screen */
+"settings_title" = "Configuración";
+"settings_theme" = "Tema";
+"settings_language" = "Idioma";
+"settings_theme_system" = "Sistema";
+"settings_theme_light" = "Claro";
+"settings_theme_dark" = "Oscuro";
+"theme_system" = "Sistema";
+"theme_light" = "Claro";
+"theme_dark" = "Oscuro";
+
+/* Language Selection */
+"language_selection_title" = "Seleccionar Idioma";
+"language_selection_subtitle" = "Elige tu idioma preferido";
+"language_selection_continue" = "Continuar";
+
+/* Common */
+"common_ok" = "OK";
+"common_cancel" = "Cancelar";
+"common_delete" = "Eliminar";
+"common_save" = "Guardar";
+"common_edit" = "Editar";
+"common_loading" = "Cargando...";
+"common_error" = "Error";
+"common_success" = "Éxito";
+
+/* Animal Types */
+"animal_type_cow" = "Vaca";
+"animal_type_pig" = "Cerdo";
+"animal_type_chicken" = "Pollo";
+"animal_type_sheep" = "Oveja";
+"animal_type_goat" = "Cabra";
+"animal_type_horse" = "Caballo";
+"animal_type_other" = "Otro";
+
+/* Health Status */
+"health_excellent" = "Excelente";
+"health_good" = "Bueno";
+"health_fair" = "Regular";
+"health_poor" = "Malo";
+"health_treatment" = "En Tratamiento";
+

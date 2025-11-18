@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "ติดตาม";
+"tab_add" = "เพิ่ม";
+"tab_edit" = "แก้ไข";
+"tab_statistics" = "สถิติ";
+"tab_settings" = "การตั้งค่า";
+
+/* Tracker Screen */
+"tracker_title" = "ติดตามสัตว์";
+"tracker_empty" = "ยังไม่มีสัตว์";
+"tracker_empty_description" = "เพิ่มสัตว์ตัวแรกของคุณเพื่อเริ่มติดตาม";
+
+/* Add Animal Screen */
+"add_animal_title" = "เพิ่มสัตว์";
+"add_animal_name" = "ชื่อ";
+"add_animal_type" = "ประเภท";
+"add_animal_breed" = "พันธุ์";
+"add_animal_birth_date" = "วันเกิด";
+"add_animal_weight" = "น้ำหนัก (กก.)";
+"add_animal_health_status" = "สถานะสุขภาพ";
+"add_animal_notes" = "หมายเหตุ";
+"add_animal_save" = "บันทึก";
+"add_animal_cancel" = "ยกเลิก";
+"add_animal_success" = "เพิ่มสัตว์สำเร็จ";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "แก้ไขสัตว์";
+"edit_animal_save" = "บันทึกการเปลี่ยนแปลง";
+"edit_animal_delete" = "ลบ";
+"edit_animal_success" = "อัปเดตสัตว์สำเร็จ";
+"edit_animal_delete_confirm" = "คุณแน่ใจหรือไม่ว่าต้องการลบสัตว์นี้?";
+"edit_animal_delete_confirm_title" = "ลบสัตว์";
+
+/* Statistics Screen */
+"statistics_title" = "สถิติ";
+"statistics_total" = "จำนวนสัตว์ทั้งหมด";
+"statistics_by_type" = "ตามประเภท";
+"statistics_health" = "สถานะสุขภาพ";
+"statistics_average_weight" = "น้ำหนักเฉลี่ย";
+
+/* Settings Screen */
+"settings_title" = "การตั้งค่า";
+"settings_theme" = "ธีม";
+"settings_language" = "ภาษา";
+"settings_theme_system" = "ระบบ";
+"settings_theme_light" = "สว่าง";
+"settings_theme_dark" = "มืด";
+"theme_system" = "ระบบ";
+"theme_light" = "สว่าง";
+"theme_dark" = "มืด";
+
+/* Language Selection */
+"language_selection_title" = "เลือกภาษา";
+"language_selection_subtitle" = "เลือกภาษาที่คุณต้องการ";
+"language_selection_continue" = "ดำเนินการต่อ";
+
+/* Common */
+"common_ok" = "ตกลง";
+"common_cancel" = "ยกเลิก";
+"common_delete" = "ลบ";
+"common_save" = "บันทึก";
+"common_edit" = "แก้ไข";
+"common_loading" = "กำลังโหลด...";
+"common_error" = "ข้อผิดพลาด";
+"common_success" = "สำเร็จ";
+
+/* Animal Types */
+"animal_type_cow" = "วัว";
+"animal_type_pig" = "หมู";
+"animal_type_chicken" = "ไก่";
+"animal_type_sheep" = "แกะ";
+"animal_type_goat" = "แพะ";
+"animal_type_horse" = "ม้า";
+"animal_type_other" = "อื่นๆ";
+
+/* Health Status */
+"health_excellent" = "ยอดเยี่ยม";
+"health_good" = "ดี";
+"health_fair" = "พอใช้";
+"health_poor" = "แย่";
+"health_treatment" = "อยู่ระหว่างการรักษา";
+

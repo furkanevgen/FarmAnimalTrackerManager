@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "農場管理";
+
+/* Tab Bar */
+"tab_tracker" = "追蹤";
+"tab_add" = "新增";
+"tab_edit" = "編輯";
+"tab_statistics" = "統計";
+"tab_settings" = "設定";
+
+/* Tracker Screen */
+"tracker_title" = "動物追蹤";
+"tracker_empty" = "還沒有動物";
+"tracker_empty_description" = "新增您的第一隻動物開始追蹤";
+
+/* Add Animal Screen */
+"add_animal_title" = "新增動物";
+"add_animal_name" = "名稱";
+"add_animal_type" = "類型";
+"add_animal_breed" = "品種";
+"add_animal_birth_date" = "出生日期";
+"add_animal_weight" = "體重（公斤）";
+"add_animal_health_status" = "健康狀況";
+"add_animal_notes" = "備註";
+"add_animal_save" = "儲存";
+"add_animal_cancel" = "取消";
+"add_animal_success" = "動物新增成功";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "編輯動物";
+"edit_animal_save" = "儲存變更";
+"edit_animal_delete" = "刪除";
+"edit_animal_success" = "動物更新成功";
+"edit_animal_delete_confirm" = "您確定要刪除這隻動物嗎？";
+"edit_animal_delete_confirm_title" = "刪除動物";
+
+/* Statistics Screen */
+"statistics_title" = "統計";
+"statistics_total" = "動物總數";
+"statistics_by_type" = "按類型";
+"statistics_health" = "健康狀況";
+"statistics_average_weight" = "平均體重";
+
+/* Settings Screen */
+"settings_title" = "設定";
+"settings_theme" = "主題";
+"settings_language" = "語言";
+"settings_theme_system" = "系統";
+"settings_theme_light" = "淺色";
+"settings_theme_dark" = "深色";
+"theme_system" = "系統";
+"theme_light" = "淺色";
+"theme_dark" = "深色";
+
+/* Language Selection */
+"language_selection_title" = "選擇語言";
+"language_selection_subtitle" = "選擇您偏好的語言";
+"language_selection_continue" = "繼續";
+
+/* Common */
+"common_ok" = "確定";
+"common_cancel" = "取消";
+"common_delete" = "刪除";
+"common_save" = "儲存";
+"common_edit" = "編輯";
+"common_loading" = "載入中...";
+"common_error" = "錯誤";
+"common_success" = "成功";
+
+/* Animal Types */
+"animal_type_cow" = "牛";
+"animal_type_pig" = "豬";
+"animal_type_chicken" = "雞";
+"animal_type_sheep" = "羊";
+"animal_type_goat" = "山羊";
+"animal_type_horse" = "馬";
+"animal_type_other" = "其他";
+
+/* Health Status */
+"health_excellent" = "優秀";
+"health_good" = "良好";
+"health_fair" = "一般";
+"health_poor" = "較差";
+"health_treatment" = "治療中";
+

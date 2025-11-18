@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "Sporing";
+"tab_add" = "Tilføj";
+"tab_edit" = "Rediger";
+"tab_statistics" = "Statistik";
+"tab_settings" = "Indstillinger";
+
+/* Tracker Screen */
+"tracker_title" = "Dyr Sporing";
+"tracker_empty" = "Ingen dyr endnu";
+"tracker_empty_description" = "Tilføj dit første dyr for at begynde sporing";
+
+/* Add Animal Screen */
+"add_animal_title" = "Tilføj Dyr";
+"add_animal_name" = "Navn";
+"add_animal_type" = "Type";
+"add_animal_breed" = "Race";
+"add_animal_birth_date" = "Fødselsdato";
+"add_animal_weight" = "Vægt (kg)";
+"add_animal_health_status" = "Sundhedsstatus";
+"add_animal_notes" = "Noter";
+"add_animal_save" = "Gem";
+"add_animal_cancel" = "Annuller";
+"add_animal_success" = "Dyr tilføjet med succes";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "Rediger Dyr";
+"edit_animal_save" = "Gem Ændringer";
+"edit_animal_delete" = "Slet";
+"edit_animal_success" = "Dyr opdateret med succes";
+"edit_animal_delete_confirm" = "Er du sikker på, at du vil slette dette dyr?";
+"edit_animal_delete_confirm_title" = "Slet Dyr";
+
+/* Statistics Screen */
+"statistics_title" = "Statistik";
+"statistics_total" = "Samlet Antal Dyr";
+"statistics_by_type" = "Efter Type";
+"statistics_health" = "Sundhedsstatus";
+"statistics_average_weight" = "Gennemsnitsvægt";
+
+/* Settings Screen */
+"settings_title" = "Indstillinger";
+"settings_theme" = "Tema";
+"settings_language" = "Sprog";
+"settings_theme_system" = "System";
+"settings_theme_light" = "Lys";
+"settings_theme_dark" = "Mørk";
+"theme_system" = "System";
+"theme_light" = "Lys";
+"theme_dark" = "Mørk";
+
+/* Language Selection */
+"language_selection_title" = "Vælg Sprog";
+"language_selection_subtitle" = "Vælg dit foretrukne sprog";
+"language_selection_continue" = "Fortsæt";
+
+/* Common */
+"common_ok" = "OK";
+"common_cancel" = "Annuller";
+"common_delete" = "Slet";
+"common_save" = "Gem";
+"common_edit" = "Rediger";
+"common_loading" = "Indlæser...";
+"common_error" = "Fejl";
+"common_success" = "Succes";
+
+/* Animal Types */
+"animal_type_cow" = "Ko";
+"animal_type_pig" = "Gris";
+"animal_type_chicken" = "Høne";
+"animal_type_sheep" = "Får";
+"animal_type_goat" = "Ged";
+"animal_type_horse" = "Hest";
+"animal_type_other" = "Andet";
+
+/* Health Status */
+"health_excellent" = "Fremragende";
+"health_good" = "God";
+"health_fair" = "Rimelig";
+"health_poor" = "Dårlig";
+"health_treatment" = "Under Behandling";
+

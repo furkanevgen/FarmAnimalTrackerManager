@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "Pelacak";
+"tab_add" = "Tambah";
+"tab_edit" = "Edit";
+"tab_statistics" = "Statistik";
+"tab_settings" = "Pengaturan";
+
+/* Tracker Screen */
+"tracker_title" = "Pelacak Hewan";
+"tracker_empty" = "Belum ada hewan";
+"tracker_empty_description" = "Tambahkan hewan pertama Anda untuk mulai melacak";
+
+/* Add Animal Screen */
+"add_animal_title" = "Tambah Hewan";
+"add_animal_name" = "Nama";
+"add_animal_type" = "Jenis";
+"add_animal_breed" = "Ras";
+"add_animal_birth_date" = "Tanggal Lahir";
+"add_animal_weight" = "Berat (kg)";
+"add_animal_health_status" = "Status Kesehatan";
+"add_animal_notes" = "Catatan";
+"add_animal_save" = "Simpan";
+"add_animal_cancel" = "Batal";
+"add_animal_success" = "Hewan berhasil ditambahkan";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "Edit Hewan";
+"edit_animal_save" = "Simpan Perubahan";
+"edit_animal_delete" = "Hapus";
+"edit_animal_success" = "Hewan berhasil diperbarui";
+"edit_animal_delete_confirm" = "Apakah Anda yakin ingin menghapus hewan ini?";
+"edit_animal_delete_confirm_title" = "Hapus Hewan";
+
+/* Statistics Screen */
+"statistics_title" = "Statistik";
+"statistics_total" = "Total Hewan";
+"statistics_by_type" = "Berdasarkan Jenis";
+"statistics_health" = "Status Kesehatan";
+"statistics_average_weight" = "Berat Rata-rata";
+
+/* Settings Screen */
+"settings_title" = "Pengaturan";
+"settings_theme" = "Tema";
+"settings_language" = "Bahasa";
+"settings_theme_system" = "Sistem";
+"settings_theme_light" = "Terang";
+"settings_theme_dark" = "Gelap";
+"theme_system" = "Sistem";
+"theme_light" = "Terang";
+"theme_dark" = "Gelap";
+
+/* Language Selection */
+"language_selection_title" = "Pilih Bahasa";
+"language_selection_subtitle" = "Pilih bahasa pilihan Anda";
+"language_selection_continue" = "Lanjutkan";
+
+/* Common */
+"common_ok" = "OK";
+"common_cancel" = "Batal";
+"common_delete" = "Hapus";
+"common_save" = "Simpan";
+"common_edit" = "Edit";
+"common_loading" = "Memuat...";
+"common_error" = "Kesalahan";
+"common_success" = "Berhasil";
+
+/* Animal Types */
+"animal_type_cow" = "Sapi";
+"animal_type_pig" = "Babi";
+"animal_type_chicken" = "Ayam";
+"animal_type_sheep" = "Domba";
+"animal_type_goat" = "Kambing";
+"animal_type_horse" = "Kuda";
+"animal_type_other" = "Lainnya";
+
+/* Health Status */
+"health_excellent" = "Sangat Baik";
+"health_good" = "Baik";
+"health_fair" = "Cukup";
+"health_poor" = "Buruk";
+"health_treatment" = "Sedang Dirawat";
+

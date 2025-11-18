@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "מעקב";
+"tab_add" = "הוסף";
+"tab_edit" = "ערוך";
+"tab_statistics" = "סטטיסטיקות";
+"tab_settings" = "הגדרות";
+
+/* Tracker Screen */
+"tracker_title" = "מעקב בעלי חיים";
+"tracker_empty" = "אין בעלי חיים עדיין";
+"tracker_empty_description" = "הוסף את בעל החיים הראשון שלך כדי להתחיל במעקב";
+
+/* Add Animal Screen */
+"add_animal_title" = "הוסף בעל חיים";
+"add_animal_name" = "שם";
+"add_animal_type" = "סוג";
+"add_animal_breed" = "גזע";
+"add_animal_birth_date" = "תאריך לידה";
+"add_animal_weight" = "משקל (ק\"ג)";
+"add_animal_health_status" = "מצב בריאות";
+"add_animal_notes" = "הערות";
+"add_animal_save" = "שמור";
+"add_animal_cancel" = "בטל";
+"add_animal_success" = "בעל חיים נוסף בהצלחה";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "ערוך בעל חיים";
+"edit_animal_save" = "שמור שינויים";
+"edit_animal_delete" = "מחק";
+"edit_animal_success" = "בעל חיים עודכן בהצלחה";
+"edit_animal_delete_confirm" = "האם אתה בטוח שברצונך למחוק את בעל החיים הזה?";
+"edit_animal_delete_confirm_title" = "מחק בעל חיים";
+
+/* Statistics Screen */
+"statistics_title" = "סטטיסטיקות";
+"statistics_total" = "סה\"כ בעלי חיים";
+"statistics_by_type" = "לפי סוג";
+"statistics_health" = "מצב בריאות";
+"statistics_average_weight" = "משקל ממוצע";
+
+/* Settings Screen */
+"settings_title" = "הגדרות";
+"settings_theme" = "ערכת נושא";
+"settings_language" = "שפה";
+"settings_theme_system" = "מערכת";
+"settings_theme_light" = "בהיר";
+"settings_theme_dark" = "כהה";
+"theme_system" = "מערכת";
+"theme_light" = "בהיר";
+"theme_dark" = "כהה";
+
+/* Language Selection */
+"language_selection_title" = "בחר שפה";
+"language_selection_subtitle" = "בחר את השפה המועדפת עליך";
+"language_selection_continue" = "המשך";
+
+/* Common */
+"common_ok" = "אישור";
+"common_cancel" = "בטל";
+"common_delete" = "מחק";
+"common_save" = "שמור";
+"common_edit" = "ערוך";
+"common_loading" = "טוען...";
+"common_error" = "שגיאה";
+"common_success" = "הצלחה";
+
+/* Animal Types */
+"animal_type_cow" = "פרה";
+"animal_type_pig" = "חזיר";
+"animal_type_chicken" = "תרנגולת";
+"animal_type_sheep" = "כבשה";
+"animal_type_goat" = "עז";
+"animal_type_horse" = "סוס";
+"animal_type_other" = "אחר";
+
+/* Health Status */
+"health_excellent" = "מצוין";
+"health_good" = "טוב";
+"health_fair" = "הוגן";
+"health_poor" = "גרוע";
+"health_treatment" = "בטיפול";
+

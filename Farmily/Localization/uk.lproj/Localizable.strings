@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "Відстеження";
+"tab_add" = "Додати";
+"tab_edit" = "Редагувати";
+"tab_statistics" = "Статистика";
+"tab_settings" = "Налаштування";
+
+/* Tracker Screen */
+"tracker_title" = "Відстеження тварин";
+"tracker_empty" = "Поки немає тварин";
+"tracker_empty_description" = "Додайте першу тварину для початку відстеження";
+
+/* Add Animal Screen */
+"add_animal_title" = "Додати тварину";
+"add_animal_name" = "Ім'я";
+"add_animal_type" = "Тип";
+"add_animal_breed" = "Порода";
+"add_animal_birth_date" = "Дата народження";
+"add_animal_weight" = "Вага (кг)";
+"add_animal_health_status" = "Стан здоров'я";
+"add_animal_notes" = "Примітки";
+"add_animal_save" = "Зберегти";
+"add_animal_cancel" = "Скасувати";
+"add_animal_success" = "Тварину успішно додано";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "Редагувати тварину";
+"edit_animal_save" = "Зберегти зміни";
+"edit_animal_delete" = "Видалити";
+"edit_animal_success" = "Тварину успішно оновлено";
+"edit_animal_delete_confirm" = "Ви впевнені, що хочете видалити цю тварину?";
+"edit_animal_delete_confirm_title" = "Видалити тварину";
+
+/* Statistics Screen */
+"statistics_title" = "Статистика";
+"statistics_total" = "Всього тварин";
+"statistics_by_type" = "За типом";
+"statistics_health" = "Стан здоров'я";
+"statistics_average_weight" = "Середня вага";
+
+/* Settings Screen */
+"settings_title" = "Налаштування";
+"settings_theme" = "Тема";
+"settings_language" = "Мова";
+"settings_theme_system" = "Системна";
+"settings_theme_light" = "Світла";
+"settings_theme_dark" = "Темна";
+"theme_system" = "Системна";
+"theme_light" = "Світла";
+"theme_dark" = "Темна";
+
+/* Language Selection */
+"language_selection_title" = "Виберіть мову";
+"language_selection_subtitle" = "Виберіть бажану мову";
+"language_selection_continue" = "Продовжити";
+
+/* Common */
+"common_ok" = "ОК";
+"common_cancel" = "Скасувати";
+"common_delete" = "Видалити";
+"common_save" = "Зберегти";
+"common_edit" = "Редагувати";
+"common_loading" = "Завантаження...";
+"common_error" = "Помилка";
+"common_success" = "Успіх";
+
+/* Animal Types */
+"animal_type_cow" = "Корова";
+"animal_type_pig" = "Свиня";
+"animal_type_chicken" = "Курка";
+"animal_type_sheep" = "Вівця";
+"animal_type_goat" = "Коза";
+"animal_type_horse" = "Кінь";
+"animal_type_other" = "Інше";
+
+/* Health Status */
+"health_excellent" = "Відмінне";
+"health_good" = "Добре";
+"health_fair" = "Задовільне";
+"health_poor" = "Погане";
+"health_treatment" = "На лікуванні";
+

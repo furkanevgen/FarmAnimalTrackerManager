@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "Takip";
+"tab_add" = "Ekle";
+"tab_edit" = "Düzenle";
+"tab_statistics" = "İstatistikler";
+"tab_settings" = "Ayarlar";
+
+/* Tracker Screen */
+"tracker_title" = "Hayvan Takibi";
+"tracker_empty" = "Henüz hayvan yok";
+"tracker_empty_description" = "Takibe başlamak için ilk hayvanınızı ekleyin";
+
+/* Add Animal Screen */
+"add_animal_title" = "Hayvan Ekle";
+"add_animal_name" = "İsim";
+"add_animal_type" = "Tür";
+"add_animal_breed" = "Irk";
+"add_animal_birth_date" = "Doğum Tarihi";
+"add_animal_weight" = "Ağırlık (kg)";
+"add_animal_health_status" = "Sağlık Durumu";
+"add_animal_notes" = "Notlar";
+"add_animal_save" = "Kaydet";
+"add_animal_cancel" = "İptal";
+"add_animal_success" = "Hayvan başarıyla eklendi";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "Hayvan Düzenle";
+"edit_animal_save" = "Değişiklikleri Kaydet";
+"edit_animal_delete" = "Sil";
+"edit_animal_success" = "Hayvan başarıyla güncellendi";
+"edit_animal_delete_confirm" = "Bu hayvanı silmek istediğinizden emin misiniz?";
+"edit_animal_delete_confirm_title" = "Hayvan Sil";
+
+/* Statistics Screen */
+"statistics_title" = "İstatistikler";
+"statistics_total" = "Toplam Hayvan";
+"statistics_by_type" = "Türe Göre";
+"statistics_health" = "Sağlık Durumu";
+"statistics_average_weight" = "Ortalama Ağırlık";
+
+/* Settings Screen */
+"settings_title" = "Ayarlar";
+"settings_theme" = "Tema";
+"settings_language" = "Dil";
+"settings_theme_system" = "Sistem";
+"settings_theme_light" = "Açık";
+"settings_theme_dark" = "Koyu";
+"theme_system" = "Sistem";
+"theme_light" = "Açık";
+"theme_dark" = "Koyu";
+
+/* Language Selection */
+"language_selection_title" = "Dil Seç";
+"language_selection_subtitle" = "Tercih ettiğiniz dili seçin";
+"language_selection_continue" = "Devam Et";
+
+/* Common */
+"common_ok" = "Tamam";
+"common_cancel" = "İptal";
+"common_delete" = "Sil";
+"common_save" = "Kaydet";
+"common_edit" = "Düzenle";
+"common_loading" = "Yükleniyor...";
+"common_error" = "Hata";
+"common_success" = "Başarılı";
+
+/* Animal Types */
+"animal_type_cow" = "İnek";
+"animal_type_pig" = "Domuz";
+"animal_type_chicken" = "Tavuk";
+"animal_type_sheep" = "Koyun";
+"animal_type_goat" = "Keçi";
+"animal_type_horse" = "At";
+"animal_type_other" = "Diğer";
+
+/* Health Status */
+"health_excellent" = "Mükemmel";
+"health_good" = "İyi";
+"health_fair" = "Orta";
+"health_poor" = "Kötü";
+"health_treatment" = "Tedavi Altında";
+

@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "Volgen";
+"tab_add" = "Toevoegen";
+"tab_edit" = "Bewerken";
+"tab_statistics" = "Statistieken";
+"tab_settings" = "Instellingen";
+
+/* Tracker Screen */
+"tracker_title" = "Dieren Volgen";
+"tracker_empty" = "Nog geen dieren";
+"tracker_empty_description" = "Voeg uw eerste dier toe om te beginnen met volgen";
+
+/* Add Animal Screen */
+"add_animal_title" = "Dier Toevoegen";
+"add_animal_name" = "Naam";
+"add_animal_type" = "Type";
+"add_animal_breed" = "Ras";
+"add_animal_birth_date" = "Geboortedatum";
+"add_animal_weight" = "Gewicht (kg)";
+"add_animal_health_status" = "Gezondheidsstatus";
+"add_animal_notes" = "Notities";
+"add_animal_save" = "Opslaan";
+"add_animal_cancel" = "Annuleren";
+"add_animal_success" = "Dier succesvol toegevoegd";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "Dier Bewerken";
+"edit_animal_save" = "Wijzigingen Opslaan";
+"edit_animal_delete" = "Verwijderen";
+"edit_animal_success" = "Dier succesvol bijgewerkt";
+"edit_animal_delete_confirm" = "Weet u zeker dat u dit dier wilt verwijderen?";
+"edit_animal_delete_confirm_title" = "Dier Verwijderen";
+
+/* Statistics Screen */
+"statistics_title" = "Statistieken";
+"statistics_total" = "Totaal Dieren";
+"statistics_by_type" = "Op Type";
+"statistics_health" = "Gezondheidsstatus";
+"statistics_average_weight" = "Gemiddeld Gewicht";
+
+/* Settings Screen */
+"settings_title" = "Instellingen";
+"settings_theme" = "Thema";
+"settings_language" = "Taal";
+"settings_theme_system" = "Systeem";
+"settings_theme_light" = "Licht";
+"settings_theme_dark" = "Donker";
+"theme_system" = "Systeem";
+"theme_light" = "Licht";
+"theme_dark" = "Donker";
+
+/* Language Selection */
+"language_selection_title" = "Selecteer Taal";
+"language_selection_subtitle" = "Kies uw voorkeurstaal";
+"language_selection_continue" = "Doorgaan";
+
+/* Common */
+"common_ok" = "OK";
+"common_cancel" = "Annuleren";
+"common_delete" = "Verwijderen";
+"common_save" = "Opslaan";
+"common_edit" = "Bewerken";
+"common_loading" = "Laden...";
+"common_error" = "Fout";
+"common_success" = "Succes";
+
+/* Animal Types */
+"animal_type_cow" = "Koe";
+"animal_type_pig" = "Varken";
+"animal_type_chicken" = "Kip";
+"animal_type_sheep" = "Schaap";
+"animal_type_goat" = "Geit";
+"animal_type_horse" = "Paard";
+"animal_type_other" = "Anders";
+
+/* Health Status */
+"health_excellent" = "Uitstekend";
+"health_good" = "Goed";
+"health_fair" = "Redelijk";
+"health_poor" = "Slecht";
+"health_treatment" = "Onder Behandeling";
+

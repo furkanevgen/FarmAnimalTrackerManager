@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "Παρακολούθηση";
+"tab_add" = "Προσθήκη";
+"tab_edit" = "Επεξεργασία";
+"tab_statistics" = "Στατιστικά";
+"tab_settings" = "Ρυθμίσεις";
+
+/* Tracker Screen */
+"tracker_title" = "Παρακολούθηση Ζώων";
+"tracker_empty" = "Δεν υπάρχουν ακόμα ζώα";
+"tracker_empty_description" = "Προσθέστε το πρώτο σας ζώο για να ξεκινήσετε την παρακολούθηση";
+
+/* Add Animal Screen */
+"add_animal_title" = "Προσθήκη Ζώου";
+"add_animal_name" = "Όνομα";
+"add_animal_type" = "Τύπος";
+"add_animal_breed" = "Φυλή";
+"add_animal_birth_date" = "Ημερομηνία Γέννησης";
+"add_animal_weight" = "Βάρος (kg)";
+"add_animal_health_status" = "Κατάσταση Υγείας";
+"add_animal_notes" = "Σημειώσεις";
+"add_animal_save" = "Αποθήκευση";
+"add_animal_cancel" = "Ακύρωση";
+"add_animal_success" = "Το ζώο προστέθηκε επιτυχώς";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "Επεξεργασία Ζώου";
+"edit_animal_save" = "Αποθήκευση Αλλαγών";
+"edit_animal_delete" = "Διαγραφή";
+"edit_animal_success" = "Το ζώο ενημερώθηκε επιτυχώς";
+"edit_animal_delete_confirm" = "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το ζώο;";
+"edit_animal_delete_confirm_title" = "Διαγραφή Ζώου";
+
+/* Statistics Screen */
+"statistics_title" = "Στατιστικά";
+"statistics_total" = "Σύνολο Ζώων";
+"statistics_by_type" = "Ανά Τύπο";
+"statistics_health" = "Κατάσταση Υγείας";
+"statistics_average_weight" = "Μέσο Βάρος";
+
+/* Settings Screen */
+"settings_title" = "Ρυθμίσεις";
+"settings_theme" = "Θέμα";
+"settings_language" = "Γλώσσα";
+"settings_theme_system" = "Σύστημα";
+"settings_theme_light" = "Φωτεινό";
+"settings_theme_dark" = "Σκοτεινό";
+"theme_system" = "Σύστημα";
+"theme_light" = "Φωτεινό";
+"theme_dark" = "Σκοτεινό";
+
+/* Language Selection */
+"language_selection_title" = "Επιλογή Γλώσσας";
+"language_selection_subtitle" = "Επιλέξτε την προτιμώμενη γλώσσα σας";
+"language_selection_continue" = "Συνέχεια";
+
+/* Common */
+"common_ok" = "OK";
+"common_cancel" = "Ακύρωση";
+"common_delete" = "Διαγραφή";
+"common_save" = "Αποθήκευση";
+"common_edit" = "Επεξεργασία";
+"common_loading" = "Φόρτωση...";
+"common_error" = "Σφάλμα";
+"common_success" = "Επιτυχία";
+
+/* Animal Types */
+"animal_type_cow" = "Αγελάδα";
+"animal_type_pig" = "Γουρούνι";
+"animal_type_chicken" = "Κότα";
+"animal_type_sheep" = "Πρόβατο";
+"animal_type_goat" = "Κατσίκα";
+"animal_type_horse" = "Άλογο";
+"animal_type_other" = "Άλλο";
+
+/* Health Status */
+"health_excellent" = "Εξαιρετικό";
+"health_good" = "Καλό";
+"health_fair" = "Μέτριο";
+"health_poor" = "Κακό";
+"health_treatment" = "Υπό Θεραπεία";
+

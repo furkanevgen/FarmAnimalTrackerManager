@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "トラッカー";
+"tab_add" = "追加";
+"tab_edit" = "編集";
+"tab_statistics" = "統計";
+"tab_settings" = "設定";
+
+/* Tracker Screen */
+"tracker_title" = "動物トラッカー";
+"tracker_empty" = "まだ動物がいません";
+"tracker_empty_description" = "最初の動物を追加して追跡を開始";
+
+/* Add Animal Screen */
+"add_animal_title" = "動物を追加";
+"add_animal_name" = "名前";
+"add_animal_type" = "種類";
+"add_animal_breed" = "品種";
+"add_animal_birth_date" = "生年月日";
+"add_animal_weight" = "体重（kg）";
+"add_animal_health_status" = "健康状態";
+"add_animal_notes" = "メモ";
+"add_animal_save" = "保存";
+"add_animal_cancel" = "キャンセル";
+"add_animal_success" = "動物が正常に追加されました";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "動物を編集";
+"edit_animal_save" = "変更を保存";
+"edit_animal_delete" = "削除";
+"edit_animal_success" = "動物が正常に更新されました";
+"edit_animal_delete_confirm" = "この動物を削除してもよろしいですか？";
+"edit_animal_delete_confirm_title" = "動物を削除";
+
+/* Statistics Screen */
+"statistics_title" = "統計";
+"statistics_total" = "動物の総数";
+"statistics_by_type" = "種類別";
+"statistics_health" = "健康状態";
+"statistics_average_weight" = "平均体重";
+
+/* Settings Screen */
+"settings_title" = "設定";
+"settings_theme" = "テーマ";
+"settings_language" = "言語";
+"settings_theme_system" = "システム";
+"settings_theme_light" = "ライト";
+"settings_theme_dark" = "ダーク";
+"theme_system" = "システム";
+"theme_light" = "ライト";
+"theme_dark" = "ダーク";
+
+/* Language Selection */
+"language_selection_title" = "言語を選択";
+"language_selection_subtitle" = "希望する言語を選択してください";
+"language_selection_continue" = "続ける";
+
+/* Common */
+"common_ok" = "OK";
+"common_cancel" = "キャンセル";
+"common_delete" = "削除";
+"common_save" = "保存";
+"common_edit" = "編集";
+"common_loading" = "読み込み中...";
+"common_error" = "エラー";
+"common_success" = "成功";
+
+/* Animal Types */
+"animal_type_cow" = "牛";
+"animal_type_pig" = "豚";
+"animal_type_chicken" = "鶏";
+"animal_type_sheep" = "羊";
+"animal_type_goat" = "山羊";
+"animal_type_horse" = "馬";
+"animal_type_other" = "その他";
+
+/* Health Status */
+"health_excellent" = "優秀";
+"health_good" = "良好";
+"health_fair" = "普通";
+"health_poor" = "不良";
+"health_treatment" = "治療中";
+

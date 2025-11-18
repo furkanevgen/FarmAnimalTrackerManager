@@ -1,0 +1,85 @@
+/* App */
+"app_name" = "Farmily";
+
+/* Tab Bar */
+"tab_tracker" = "Rastrejador";
+"tab_add" = "Afegir";
+"tab_edit" = "Editar";
+"tab_statistics" = "Estadístiques";
+"tab_settings" = "Configuració";
+
+/* Tracker Screen */
+"tracker_title" = "Rastrejador d'Animals";
+"tracker_empty" = "Encara no hi ha animals";
+"tracker_empty_description" = "Afegeix el teu primer animal per començar a rastrejar";
+
+/* Add Animal Screen */
+"add_animal_title" = "Afegir Animal";
+"add_animal_name" = "Nom";
+"add_animal_type" = "Tipus";
+"add_animal_breed" = "Raça";
+"add_animal_birth_date" = "Data de Naixement";
+"add_animal_weight" = "Pes (kg)";
+"add_animal_health_status" = "Estat de Salut";
+"add_animal_notes" = "Notes";
+"add_animal_save" = "Desar";
+"add_animal_cancel" = "Cancel·lar";
+"add_animal_success" = "Animal afegit amb èxit";
+
+/* Edit Animal Screen */
+"edit_animal_title" = "Editar Animal";
+"edit_animal_save" = "Desar Canvis";
+"edit_animal_delete" = "Eliminar";
+"edit_animal_success" = "Animal actualitzat amb èxit";
+"edit_animal_delete_confirm" = "Estàs segur que vols eliminar aquest animal?";
+"edit_animal_delete_confirm_title" = "Eliminar Animal";
+
+/* Statistics Screen */
+"statistics_title" = "Estadístiques";
+"statistics_total" = "Total d'Animals";
+"statistics_by_type" = "Per Tipus";
+"statistics_health" = "Estat de Salut";
+"statistics_average_weight" = "Pes Mitjà";
+
+/* Settings Screen */
+"settings_title" = "Configuració";
+"settings_theme" = "Tema";
+"settings_language" = "Idioma";
+"settings_theme_system" = "Sistema";
+"settings_theme_light" = "Clar";
+"settings_theme_dark" = "Fosc";
+"theme_system" = "Sistema";
+"theme_light" = "Clar";
+"theme_dark" = "Fosc";
+
+/* Language Selection */
+"language_selection_title" = "Selecciona l'Idioma";
+"language_selection_subtitle" = "Tria el teu idioma preferit";
+"language_selection_continue" = "Continuar";
+
+/* Common */
+"common_ok" = "D'acord";
+"common_cancel" = "Cancel·lar";
+"common_delete" = "Eliminar";
+"common_save" = "Desar";
+"common_edit" = "Editar";
+"common_loading" = "Carregant...";
+"common_error" = "Error";
+"common_success" = "Èxit";
+
+/* Animal Types */
+"animal_type_cow" = "Vaca";
+"animal_type_pig" = "Porc";
+"animal_type_chicken" = "Gallina";
+"animal_type_sheep" = "Ovella";
+"animal_type_goat" = "Cabra";
+"animal_type_horse" = "Cavall";
+"animal_type_other" = "Altres";
+
+/* Health Status */
+"health_excellent" = "Excel·lent";
+"health_good" = "Bo";
+"health_fair" = "Regular";
+"health_poor" = "Dèbil";
+"health_treatment" = "En Tractament";
+
